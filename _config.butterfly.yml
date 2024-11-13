@@ -257,7 +257,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Ask Me!
-      link: https://github.com/luotianyi-serverless/discussions/issues/new
+      link: https://github.com/ltylab/mikunet-blog/issues/new
   card_recent_post:
     enable: true
     limit: 5

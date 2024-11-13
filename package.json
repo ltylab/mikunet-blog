@@ -1,6 +1,5 @@
 {
-  "name": "discussions",
-  "version": "0.0.0",
+  "name": "mikunet-blog",
   "private": true,
   "scripts": {
     "build": "hexo generate",
